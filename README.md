@@ -32,7 +32,9 @@ This project is the result of a collaborative effort between [Himanshi Saxena](h
 For a detailed walkthrough of the dashboard and visualizations, please watch the video below:
 
 
-https://github.com/user-attachments/assets/25b7d7e6-8969-4b10-b45f-8abafb40c732
+https://github.com/user-attachments/assets/59751780-6922-4d37-872d-bfa54a21d256
+
+
 
 
 
