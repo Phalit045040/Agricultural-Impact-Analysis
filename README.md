@@ -32,7 +32,8 @@ This project is the result of a collaborative effort between **Himanshi Saxena**
 For a detailed walkthrough of the dashboard and visualizations, please watch the video below:
 
 [**Agricultural Impact Dashboard Walkthrough**]
-[Screencast from 11-12-24 12_21_08 AM IST.webm](https://github.com/user-attachments/assets/fdef448a-2003-4b88-96fc-08917ab18725)
+https://github.com/user-attachments/assets/8a4d2b35-a5f0-4fb5-a65b-1aad994e728d
+
 
 ---
 
