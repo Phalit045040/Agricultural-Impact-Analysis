@@ -3,7 +3,7 @@
 This dashboard is created on **ELK (Elastic Stack)** with a Kaggle dataset streamed via Kibana.
 
 ### **Contributing**
-This project is the result of a collaborative effort between [Himanshi Saxena](https://github.com/045019), [Jasleen Kaur Chadha](https://github.com/Jasleen045023), and me, with valuable guidance from **Prof. Ashok Harna**.
+This project is the result of a collaborative effort between [Himanshi Saxena](https://github.com/045019), [Jasleen Kaur Chadha](https://github.com/Jasleen045023), and me, with valuable guidance from **Prof. Ashok Harnal**.
 
 ---
 
